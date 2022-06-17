@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  baseUrl: 'https://bookstore-pigarri-api.herokuapp.com/'
+  baseUrl: 'https://bookstore-pigarri-api.herokuapp.com'
 };
 
 /*
